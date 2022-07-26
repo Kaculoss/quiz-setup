@@ -81,7 +81,7 @@ export const SetupForm = () => {
           </div>
 
           <div className="form-control">
-            <label htmlFor="difficulty">category</label>
+            <label htmlFor="difficulty">difficulty</label>
             <select
               name="difficulty"
               id="difficulty"
